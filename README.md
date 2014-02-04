@@ -1,10 +1,10 @@
 # otherWayRound-framework
 
-Our new only **114 byte** framework
+our new only **114 byte** framework
 
-- Cross-everything compatible
-- Ultrafast, slim and awesome
-- V.I.P. = Very important framework
+- cross-everything compatible
+- ultrafast, slim and awesome
+- V.I.P. = very important framework
 
 ## Usage
 
