@@ -4,7 +4,7 @@ our new only **114 byte** framework
 
 - cross-everything compatible
 - ultrafast, slim and awesome
-- V.I.P. = very important framework
+- V.I.P. = very important pframework
 
 ## Usage
 
